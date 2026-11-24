@@ -1,0 +1,1 @@
+# Frontend-automated-tests-for-the-qa.studio-authorization-form
